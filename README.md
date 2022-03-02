@@ -15,7 +15,7 @@
 
 - 💻 &nbsp;
   ![Java | Java EE](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHPlogoColor=00599C)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007ACC)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=276DC3)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js&logoColor=276DC3)
   ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C Sharp&logoColor=276DC3)
