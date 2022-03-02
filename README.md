@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Rafael Pereira.</h2>
+<h2 align="center"> Hey there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Rafael Pereira.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
