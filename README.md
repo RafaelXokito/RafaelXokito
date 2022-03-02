@@ -34,7 +34,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=2C2255)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=IntelliJ%20IDEA&logoColor=2C2255)
 
 <br/>
