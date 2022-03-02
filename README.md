@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying Computer Science at Polytechnic of Leiria, ESTG.
 - 💼 &nbsp; LOOKING FOR SUMMER INTERNSHIP.
 - 🌱 &nbsp; Learning more about Machine Learning.
-- ✍️ &nbsp; Considero aprender sobre outras tecnologias como hobbies.
+- ✍️ &nbsp; I consider learning about other technologies as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
