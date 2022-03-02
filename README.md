@@ -52,6 +52,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/RafaelXokito/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael Pereira-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:rafael_pereira_2000@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rafael\_pereira\_2000@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rafael_pereira_2000@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Rafael__Pereira__2000%40hotmail.com-blue?style=flat-square&logo=Microsoft%20Outlook"></a>
 </p>
 
