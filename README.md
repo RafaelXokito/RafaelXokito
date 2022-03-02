@@ -1,7 +1,7 @@
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
 <h2 align="center"> Hey there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Rafael Pereira.</h2>
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -10,8 +10,6 @@
 - 💼 &nbsp; LOOKING FOR SUMMER INTERNSHIP.
 - 🌱 &nbsp; Learning more about Machine Learning.
 - ✍️ &nbsp; I consider learning about other technologies as hobbies.
-
-<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
