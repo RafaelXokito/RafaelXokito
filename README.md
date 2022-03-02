@@ -11,6 +11,8 @@
 - 🌱 &nbsp; Learning more about Machine Learning.
 - ✍️ &nbsp; I consider learning about other technologies as hobbies.
 
+<br/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
