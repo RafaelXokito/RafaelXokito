@@ -5,9 +5,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Polytechnic of Leiria, ESTG.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 💼 &nbsp; LOOKING FOR SUMMER INTERNSHIP.
 - 🌱 &nbsp; Learning more about Machine Learning.
-- ✍️ &nbsp; Pursuing  as hobbies/side hustles.
+- ✍️ &nbsp; Considero aprender sobre outras tecnologias como hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
