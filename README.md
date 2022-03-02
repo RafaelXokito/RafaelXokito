@@ -15,9 +15,9 @@
 
 - 💻 &nbsp;
   ![Java | Java EE](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007ACC)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=276DC3)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js&logoColor=276DC3)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js&logoColor=4FC08D)
   ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp&logoColor=239120)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -34,8 +34,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=2C2255)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=IntelliJ%20IDEA&logoColor=2C2255)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=5C2D91)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=IntelliJ%20IDEA&logoColor=000000)
 
 <br/>
 
