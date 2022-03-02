@@ -18,7 +18,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007ACC)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=276DC3)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js&logoColor=276DC3)
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%20Sharp&logoColor=276DC3)
+  ![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp&logoColor=239120)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
