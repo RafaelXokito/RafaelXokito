@@ -7,8 +7,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Polytechnic of Leiria, ESTG.
-- 💼 &nbsp; LOOKING FOR SUMMER INTERNSHIP.
-- 🌱 &nbsp; Learning more about Machine Learning.
+- 💼 &nbsp; LOOKING FOR 2023/2024 INTERNSHIP.
+- 🌱 &nbsp; Learning more about Deep Learning.
 - ✍️ &nbsp; I consider learning about other technologies as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
