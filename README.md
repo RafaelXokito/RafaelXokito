@@ -7,7 +7,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Master's Degree in Computer Science at Polytechnic of Leiria, ESTG.
-- 💼 &nbsp; LOOKING FOR 2023/2024 INTERNSHIP.
 - 🌱 &nbsp; Learning more about Deep Learning.
 - ✍️ &nbsp; I consider learning about other technologies as hobbies.
 
